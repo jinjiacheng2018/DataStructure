@@ -1,4 +1,4 @@
-# DataStructure
+# JavaDataStructure
 数据结构与算法复习（Java）：排序、字符串、数组、链表、二分查找、二叉树
 
 排序算法:
